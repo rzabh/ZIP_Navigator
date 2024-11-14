@@ -17,9 +17,9 @@ To use this script:
 2- Provide the URL of the ZIP file when prompted.
 Navigate Through the Files:
 
-3- Interactively explore the file structure within the ZIP archive.
+Interactively explore the file structure within the ZIP archive.
 
-4- Generate a Comprehensive Report:
+or Generate a Comprehensive Report:
 
 From the interactive menu, select the option "c" to create a detailed report:
 This generates a "reports" folder in your working directory. The script creates multiple mini reports.
