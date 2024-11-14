@@ -14,8 +14,7 @@ To use this script:
 
 1- Run the Main File with Your ZIP URL:
 
-2- Provide the URL of the ZIP file when prompted.
-Navigate Through the Files:
+2-Navigate Through the Files:
 
 Interactively explore the file structure within the ZIP archive.
 
